@@ -1,14 +1,16 @@
 ---
-title: "Paper Title Number 2"
+title: "On the Perception Bottleneck of VLMs for Chart Understanding"
 collection: publications
 category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
-paperurl: 'https://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/2025-perception-bottleneck-vlms-chart-understanding
+excerpt: 'First-author study analyzing the perception bottleneck of vision-language models for chart understanding.'
+date: 2025-05-01
+venue: 'arXiv'
+citation: 'Liu, Junteng, Zeng, W., Zhang, X., Wang, Y., Shan, Z., &amp; He, J. (2025). &quot;On the Perception Bottleneck of VLMs for Chart Understanding.&quot; <i>arXiv preprint</i>.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+On the Perception Bottleneck of VLMs for Chart Understanding (2025). First author. Published on arXiv.
+
+Authors: Junteng Liu, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He.
+
+Recommended citation: Liu, J., Zeng, W., Zhang, X., et al. (2025). &quot;On the Perception Bottleneck of VLMs for Chart Understanding.&quot; arXiv preprint.
