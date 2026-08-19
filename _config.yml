@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Junteng Liu | Personal Homepage"
+title                    : "Junteng Liu"
 title_separator          : "-"
 name                     : &name "Junteng Liu"
-description              : &description "Personal homepage of Junteng Liu, a PhD candidate in Computer Science at the Hong Kong University of Science and Technology working on natural language processing and machine learning"
+description              : &description "Personal academic homepage of Junteng Liu, Ph.D. candidate at HKUST NLP Group."
 url                      : https://rodeospita.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                         # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "/LJT-Homepage" # the subpath of your site, e.g. "/blog"
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Junteng Liu"
   pronouns         :
-  bio              : "PhD candidate in Computer Science at the Hong Kong University of Science and Technology, working on natural language processing and machine learning."
+  bio              : "PhD candidate in Computer Science at the Hong Kong University of Science and Technology, working on natural language processing and machine learning in the HKUST NLP Group."
   location         : # Leave blank if you do not want to show a location icon
   employer         : "Hong Kong University of Science and Technology"
   uri              : # URL
