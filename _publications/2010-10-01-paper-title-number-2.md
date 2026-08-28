@@ -2,7 +2,7 @@
 title: "Unused template placeholder"
 collection: publications
 category: conferences
-permalink: /publication/unused-template-placeholder
+permalink: /publication/unused-template-placeholder-2
 excerpt: 'This entry is no longer in use'
 date: 2010-10-01
 venue: ''
